@@ -1,0 +1,8 @@
+Summer
+Winter
+Spring
+Autumn
+Morning
+Evening
+Night
+Afternoon

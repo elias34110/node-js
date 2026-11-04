@@ -1,0 +1,2 @@
+Hello from file 2
+Second line from file 2

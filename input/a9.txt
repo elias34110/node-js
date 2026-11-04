@@ -1,0 +1,9 @@
+Car
+Bus
+Train
+Plane
+Bicycle
+Motorcycle
+Boat
+Truck
+Van
