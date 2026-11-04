@@ -1,0 +1,55 @@
+Hello from file 1
+Hello from file 2
+Second line from file 2
+Hello from file 3
+Second line
+Third line
+Monday
+Tuesday
+Wednesday
+Thursday
+One
+Two
+Three
+Four
+Five
+JavaScript
+Python
+Java
+C++
+C#
+PHP
+London
+Paris
+Berlin
+Rome
+Madrid
+Tokyo
+New York
+Summer
+Winter
+Spring
+Autumn
+Morning
+Evening
+Night
+Afternoon
+Car
+Bus
+Train
+Plane
+Bicycle
+Motorcycle
+Boat
+Truck
+Van
+Apple
+Banana
+Orange
+Mango
+Pineapple
+Watermelon
+Strawberry
+Grapes
+Peach
+Kiwi
